@@ -36,4 +36,27 @@
 - If the MVP runs well, we can start thinking about adding services, always sustainability and circularity in mind related to "how much of it in a defined period" (cloth? schoolbooks? furniture? carsharing rides? delivery jobs? public traffic rides? housing? cars? boats?)
 <br><br><br>
 
+# Clone the foodsharing app
+
+This map shows where to pick up free food.
+The orange spots are permanent voluntary pick up spots, having fresh food every day, saved from wasting (institutions, non-profits, community colleges, businesses, and even on bicycles)
+<br><br><br>
+
+![image](https://user-images.githubusercontent.com/67427045/160886126-12bce755-7e40-4488-b5fc-21b9a047531a.png)
+<br><br><br>
+
+This is a private person offering multiple things. You could either pick some or get all of it.
+<br><br><br>
+
+![image](https://user-images.githubusercontent.com/67427045/160886381-11e9b05b-99e0-4664-b8c8-433725dbb1f0.png)
+<br><br><br>
+
+This is a german project which interacts with the app.
+There are bicycles with a box on the back locked in all areas in Cologne for instance.
+People are able to drop and pick groceries, they would the other way throw away.
+There is a bepictured instruction, how to clean the boxes, and people doing it on a weekly basis voluntarily.
+<br><br><br>
+![image](https://user-images.githubusercontent.com/67427045/160888861-9deae300-9786-4fcd-94ef-f4f1f639c830.png)
+<br><br><br>
+
 # It needs just small steps as a group to reach the goals together...
