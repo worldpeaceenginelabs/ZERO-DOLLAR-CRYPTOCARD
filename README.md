@@ -38,6 +38,17 @@
 
 # Clone the foodsharing app
 
+There is a repository of a foodsharing.de clone https://github.com/worldpeaceenginelabs/foodsharing
+
+#### Its pretty much deconstructing the repo to six core elements and drop the rest.
+
+1. map
+2. spots (temp and permanent)
+3. picture/text upload 
+4. chat between dropper and picker 
+5. send location
+6. end-offer
+
 This map shows where to pick up free food.
 The orange spots are permanent voluntary pick up spots, having fresh food every day, saved from wasting (institutions, non-profits, community colleges, businesses, and even on bicycles)
 <br><br><br>
@@ -58,6 +69,8 @@ This is a german project which interacts with the app.
 There are bicycles with a box on the back locked in all areas in Cologne for instance.
 People are able to drop and pick groceries, they would the other way throw away.
 There is a bepictured instruction, how to clean the boxes, and people doing it on a weekly basis voluntarily.
+
+Permanent spots (a locked bike is a permanent spot too) are called Fairteiler, which is dingslish (english influenced german) and means fair distribution.
 <br><br><br>
 ![image](https://user-images.githubusercontent.com/67427045/160888861-9deae300-9786-4fcd-94ef-f4f1f639c830.png)
 <br><br><br>
