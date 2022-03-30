@@ -46,6 +46,9 @@ The orange spots are permanent voluntary pick up spots, having fresh food every 
 <br><br><br>
 
 This is a private person offering multiple things. You could either pick some or get all of it.
+Just pick up as much as you need, and dont worry. Tomorrow comes a another ton of elseway wasted food.
+
+The actual food waste of one year could nutrition the whole world three times a year.
 <br><br><br>
 
 ![image](https://user-images.githubusercontent.com/67427045/160886381-11e9b05b-99e0-4664-b8c8-433725dbb1f0.png)
