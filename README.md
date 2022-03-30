@@ -31,7 +31,7 @@
 
 ### To get the ball rolling fast, because real people in the real world are hungry, we drop crypto and complicated workflows for now.
 
-- Version 1 stable is a foodsharing app clone, which private and corporate supporters are able to post food donations on a map.
+- Version 1 stable is a foodsharing app clone(reduced to map, spots, picture and short description, no profile), which private and corporate supporters are able to post food donations on a map.
 - Every user gets 3 pickups in a 24 h period (which equals three ZeroDollar, but without the IT rat tail, just a limit to 3 each day)
 - If the MVP runs well, we can start thinking about adding services, always sustainability and circularity in mind related to "how much of it in a defined period" (cloth? schoolbooks? furniture? carsharing rides? delivery jobs? public traffic rides? housing? cars? boats?)
 <br><br><br>
