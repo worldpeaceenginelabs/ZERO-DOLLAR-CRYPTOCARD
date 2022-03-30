@@ -70,7 +70,7 @@ There are bicycles with a box on the back locked in all areas in Cologne for ins
 People are able to drop and pick groceries, they would the other way throw away.
 There is a bepictured instruction, how to clean the boxes, and people doing it on a weekly basis voluntarily.
 
-Permanent spots (a locked bike is a permanent spot too) are called Fairteiler, which is dingslish (english influenced german) and means fair distribution.
+Permanent spots (a locked bike is a permanent spot too) are called Fairteiler, which is dingslish (english influenced german) and means fair router.
 <br><br><br>
 ![image](https://user-images.githubusercontent.com/67427045/160888861-9deae300-9786-4fcd-94ef-f4f1f639c830.png)
 <br><br><br>
