@@ -21,8 +21,11 @@
 
 ### Every meal costs 1 ZD.
 
-### You will get 3 ZD each day for free.
+### You will get 3 ZD for free food pickups each day.
+
+### You will get 1 ZD for a free sleepover each day.
 <br><br><br>
+![image](https://user-images.githubusercontent.com/67427045/161423816-de3402e4-1a2c-40c8-9e5b-e60e521510a6.png)
 
 ![image](https://user-images.githubusercontent.com/67427045/160861615-5635ad08-f87f-4fdd-a718-b308149f7a49.png)
 <br><br><br>
