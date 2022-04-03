@@ -32,6 +32,8 @@
 ![image](https://user-images.githubusercontent.com/67427045/160861615-5635ad08-f87f-4fdd-a718-b308149f7a49.png)
 <br><br><br>
 
+![image](https://user-images.githubusercontent.com/67427045/161428828-f1ad0a80-9b33-4f9a-8ce0-48002dcafbbc.png)
+
 # Behind the scenes (Minimum viable product)
 
 ### To get the ball rolling fast, because real people in the real world are hungry, we drop crypto and complicated workflows for now.
