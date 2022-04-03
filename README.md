@@ -13,9 +13,9 @@
 
 # The app
 
-### For starters, we get the ball rolling and start with Sustainable Development Goal #2
+### For starters, we get the ball rolling and start with Sustainable Development Goal #1 and #2
 
-### Get yourself three meals a day, no matter what.
+### Get yourself three meals a day, no matter what. Have a safe sleep at night.
 
 ### ZeroDollar.app will connect you with your local food waste economy.
 
