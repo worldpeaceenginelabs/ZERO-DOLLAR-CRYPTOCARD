@@ -13,7 +13,7 @@
 
 # The app
 
-### For starters, we get the ball rolling and start with Sustainable Development Goal #1 and #2
+### For starters, we get the ball rolling and start with Sustainable Development Goal Nr 1 and Nr 2
 
 ### Get yourself three meals a day, no matter what. Have a safe sleep at night.
 
