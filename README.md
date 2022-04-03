@@ -24,6 +24,8 @@
 ### You will get 3 ZD for free food pickups each day.
 
 ### You will get 1 ZD for a free sleepover each day.
+
+### You will get 3 ZD for free cloth each month.
 <br><br><br>
 ![image](https://user-images.githubusercontent.com/67427045/161423816-de3402e4-1a2c-40c8-9e5b-e60e521510a6.png)
 
